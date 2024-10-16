@@ -2,10 +2,10 @@
 ##### 10/7/2024
 
 ## Choosing A Topic
-I choose business because it was one of the first things that I thought in my mind of when choosing a major in college in the future. I want to discover what other ways business can be runned by. I was going to pick either printing or animation but I decided to choose **Business**. I enjoyed reading some articles about business like The [11 Importance of Business: Its Role in Society - InvestinAsia ](url) and [What Is Business Strategy & Why Is It Important? - HBS Online](url). I like to read both of it and highly recomend it. I want to see in the future what business has to offer as a whole. So, overall I am very excited to work on it. 
+I choose business because it was one of the first things that I thought in my mind of when choosing a major in college in the future. I want to discover what other ways business can be runned by. I was going to pick either printing or animation but I decided to choose **Business**. Printing is very cool because i want to learn the magic behind it, like how tree materials turns into words or pictures; but it's not really my intrest. Animation on the other hand is way cooler then printing because there are so many cool animations in the world like most animes or most movies that have lots of animation. Those were my my backups plans but there are some businesses artcles that are fire. I honestly enjoyed reading some articles about business like The [11 Importance of Business: Its Role in Society - InvestinAsia ](url) and [What Is Business Strategy & Why Is It Important? - HBS Online](url). I like to read both of it and highly recomend it. I want to see in the future what business has to offer as a whole. So, overall I am very excited to work on it. 
 
 ## Engineering Design Process
-I am currently on the first stage of the **_Engineering Design Process_** where the scenario is defining the problem. The problem that can be solved on my own is that **business is not managed by technology but rather both human and technology**. After defining the problem is, reserching the problem and I think of using business wisely and talking to professionals about it. 
+I am currently on the first stage of the **_Engineering Design Process_** where the scenario is defining the problem. The problem that can be solved on my own is that **business is not managed by technology but rather both human and technology**. After defining the problem is, reserching the problem and I think of using business wisely and talking to professionals about that. Businesses also gain lots of wealth. For example, Amazon is a **successful** major business. I want to learn how it got successful. 
 
 ## Skills
 Some skills that I learrned from working on this blog is **Researching**, **On Time Management** and **Talking Skills**
@@ -22,9 +22,7 @@ When communcating with others, It helps me understand what they are saying and m
 #### Next Steps 
 I am excited to start business!  
 
-
- 
-
 [Next](entry02.md)
+
 
 [Home](../README.md)
