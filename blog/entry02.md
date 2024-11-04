@@ -1,5 +1,7 @@
-# Entry 2
-##### X/X/XX
+# Entry 2: About my topic (Business) 
+##### 11/4/2024
+
+### About Business  
 
 Text
 
