@@ -22,7 +22,8 @@ Whenever that  I do things like **Doing Homework** or **Walking Outside**, I hav
 #### Searching for Reliable Sources
 Some sources are not reliable because itt can trick you into beliving what they wrote and corrupt you. The only way to check if a source is reliable is if you look at the end of the link. For example, _.com_ isn't really relibale oin terms of sources. A reliable one ends with _.org/.edu/.gov_. So I practiced looking for trustable sources. 
 
-
+### Next Steps 
+Overall, I will make a website about businesses and describe ways that technology helps benifit it to help business succeed in life.
 
 Text
 
