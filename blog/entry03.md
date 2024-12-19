@@ -11,7 +11,7 @@ Some ideas that I had in mind was a virtual reality (VR) buddy can help with com
 Some sources I read was [this](https://www.herzing.edu/blog/impact-technology-business). This website explains the impact on technology on businesses. It provides examples of some technology like cybersecurity, which protects information of your businesses. Overall, this site is very detailed on ways that tech helps. I like the article. Another source would be [that](https://wheniwork.com/blog/small-business-apps). This site describes all the ways why businesses **NEEDS** technology. They also specifcally talked about [Asana](https://asana.com/). Asana helps people and teams keep track of tasks, manage responsibilities, seeks progress, and communicate in real-time zones. It helps that millions of people use it, even businesses to keep track of things. 
 
 ## EDP (Engineering Design Process) 
-Im am in **Step 3** of the Engineering Design Process, **_Brainstorming Possible Solutions_**. Previously, businesses had a problem where
+Im am in **Step 3** of the Engineering Design Process, **_Brainstorming Possible Solutions_**. Previously, businesses 
 
 
 
