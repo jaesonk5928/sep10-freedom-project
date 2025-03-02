@@ -32,11 +32,13 @@ After all the code, the after results looked like this:
 ![Screenshot 2025-02-26 4 16 59 PM](https://github.com/user-attachments/assets/238311c3-a507-4cbb-9f66-c44c84cdd5ee)
 
 ## Skills
-Some skills that I improoved on during 
+Some skills that I improved on are **Collaboration** and **Organization**.
 
+#### Collaboration
+When working on the CYOA project with my partner (_Darren_), We worked on it by **collaborating** who does what in the project, which really speeded up our project. This helped me talk/introduce myself to other people. Collaborating more is a skill to learn in the real life when working with someone (like a co-worker) to finish a task. 
 
-
-
+#### Organization
+Homework is painful to remember, since you receive many in highschool to tackle. Since then, I've been organizing my homework schedule and life in Google calander. I prioritize the harder homeworks first, sinmce they tend to be either projects, essays, or assesments. They are usually worth more points in my grade. This made my school life eaiser.  
 
 [Previous](entry03.md) | [Next](entry05.md)
 
