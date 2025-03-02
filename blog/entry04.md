@@ -32,7 +32,7 @@ After all the code, the after results looked like this:
 ![Screenshot 2025-02-26 4 16 59 PM](https://github.com/user-attachments/assets/238311c3-a507-4cbb-9f66-c44c84cdd5ee)
 
 ## Skills
-
+Some skills that I 
 
 
 
