@@ -40,6 +40,9 @@ When working on the CYOA project with my partner (_Darren_), We worked on it by 
 #### Organization
 Homework is painful to remember, since you receive many in highschool to tackle. Since then, I've been organizing my homework schedule and life in Google calander. I prioritize the harder homeworks first, sinmce they tend to be either projects, essays, or assesments. They are usually worth more points in my grade. This made my school life eaiser.  
 
+#### Next Steps
+I am excited to use my tool in my freedom project website.
+
 [Previous](entry03.md) | [Next](entry05.md)
 
 [Home](../README.md)
