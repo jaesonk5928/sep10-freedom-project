@@ -1,11 +1,12 @@
 # Tool Learning Log
 
-## Tool: **X**
+## Tool: **Animate.css**
 
----
-
-### X/X/XX:
-* Text
+### 03/04/2025:
+* [Animate.css](https://animate.style/)
+    - I created a separate **file** in my _**IDE**_ to tinker the code with it. (Also copied starter code from `index.html`).
+      
+         
 
 ### X/X/XX:
 * Text
