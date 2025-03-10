@@ -2,7 +2,7 @@
 
 ## Tool: **Animate.css**
 
-### 03/04/2025:
+### 03/04/25:
 * [Animate.css](https://animate.style/)
   * I created a separate **file** in my _**IDE**_ to tinker the code with it. (Also copied starter code from `index.html`).
   * I watched this short **tutorial** [video](https://www.youtube.com/watch?v=VzbBcVRquYA) on **(Animate.css)**.
