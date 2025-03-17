@@ -17,7 +17,19 @@
     * Watch more **Animate.css** videos, how to take adavntage of the learning.
   
 ### 3/10/25:
-* Text
+* Today, I watched this simple [animate.css](https://www.youtube.com/watch?v=QYQ0I1mvFDE) video. (12 minutes long)
+  * I tinkered with some more animations for **HTML** that _animate.css_ has to offer in my **IDE**.
+  * After tinkering, the result is that I made a "box element" move from animations.
+    * The challenge for this tinkering is that I forgot to move a "box element" on the center.
+      * I found the solution by searching it up and adding `margin-(left/right)auto` and then centered it.
+    * Can I implement multiple animations, so that I can have one element havre multiple animations during each `@keyframes`
+      * Will doing this feature be hard to do? Will I need help in order to achieve this?
+  * `--animate-duration` -> This `CSS` variable makes animations either last shorter or longer (It depends how long) (by seconds).
+    * Also, when you do a longer animation, it is much slower to appear. On the other hand, shorter animations tend to come out faster.
+  * Next Steps:
+    * Try to tinker on a daily basis, maybe one in a while. (Also be more smarter when forgeting something.
+    * Next LL, I will read an article, of which `HTML` elements look the best with animations. (+ some bootstrap context for extra detail)
+   
 
 
 <!-- 
