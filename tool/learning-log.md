@@ -46,7 +46,15 @@
 
      * Last Learning Log, the box element that I made, I added some words in the box, which was then animated to slide in the `center` of the website along with the box. It was very cool to witness the animations.
 
-       * A challenge that I
+       * A challenge that I faced making this happen, is that I didn't know that how to make the words go inside the "box element".
+
+         * Solving it was pretty short, I just had to put the words inside the "box element" `div`, and it worked!
+
+       * Some questions I had in mind were:
+         * How to make animations responsive to all devices to work?
+         * Do I have to set a `@mediaquery` for all viewports?
+         * Is it mandatory to use animations?
+         
 
 
 <!--
