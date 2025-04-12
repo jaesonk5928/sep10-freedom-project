@@ -11,9 +11,7 @@ While writing this blog, I've been learning my tool [animate.css](https://animat
 
 ### More Content
 After learning a lot from [animate.css](https://animate.style/), I started being productive and tinkered some of the _animation properties_ that it offered. I even included **Bootstrap** components to animate them. Here is the code that I tinkered with in my _IDE_:
-
 ```HTML
-
 <div class="container">
  <div class="row">
   <div class="col-12">
@@ -25,7 +23,7 @@ After learning a lot from [animate.css](https://animate.style/), I started being
 <div class="container">
  <div class="row">
   <div class="col-12">
-    <p id="3rd" class="animate__animated animate__pulse animate__fast">LOREM IPSUM TEXT</p> <br>
+    <p id="3rd" class="animate__animated animate__pulse animate__slow animate__repeat-3">LOREM IPSUM TEXT</p> <br>
 </div>
  </div>
   </div>
@@ -36,6 +34,11 @@ After learning a lot from [animate.css](https://animate.style/), I started being
  </div>
   </div>
 ```
+The code snippets being shown shows a "**_tinkered_**" website with a _navbar_ and some paragraph _columns_ that are animated from using my tool [animate.css](https://animate.style/). The end resukt was very cool. I used the `animate__slow`/`animate__repeat-3` property while tinkering. This shows that I've been learning my tool.
+
+### Sources
+While [animate.css](animate.style) has many cool sections to read and tinker, some parts were confusing to me. The
+
 
 
 
