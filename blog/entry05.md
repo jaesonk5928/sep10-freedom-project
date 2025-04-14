@@ -34,10 +34,12 @@ After learning a lot from [animate.css](https://animate.style/), I started being
  </div>
   </div>
 ```
-The code snippets being shown shows a "**_tinkered_**" website with a _navbar_ and some paragraph _columns_ that are animated from using my tool [animate.css](https://animate.style/). The end resukt was very cool. I used the `animate__slow`/`animate__repeat-3` property while tinkering. This shows that I've been learning my tool.
+The code snippets being shown shows a "**_tinkered_**" website with a _navbar_ and some paragraph _columns_ that are animated from using my tool [animate.css](https://animate.style/). The end resukt was very cool. I used the `animate__slow`/`animate__repeat-3` property while tinkering for my paragraphs. This shows that I've been learning my tool.
 
 ### Sources
-While [animate.css](animate.style) has many cool sections to read and tinker, some parts were confusing to me. The
+While [animate.css](animate.style) has many cool sections to read and tinker, some parts were confusing to me. There comes the resources like [Youtube](youtube.com) videos and **articles**. They are informational to watch and can also learn a thing or two. This "_short_" [video](https://www.youtube.com/watch?v=VzbBcVRquYA) that I watched was about basic usage of my tool. Another (Kinda outdated) [video](https://www.youtube.com/watch?v=QYQ0I1mvFDE) that I watched was 12 minutes long and it also talked about how to use animations and even tinkered too. Lastly, an [article](https://bamboolab.eu/blog/development/7-interactive-elements-that-will-help-you-get-users-attention) I read was about why animations go good with websites and fits more in the modern era.
+
+### Skills
 
 
 
