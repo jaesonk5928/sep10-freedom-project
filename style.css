@@ -1,3 +1,7 @@
+body {
+    background-image: url(images/blue.jpg)
+}
+
 /* Navbar section */
 .nav-link {
     color: #ffff;
