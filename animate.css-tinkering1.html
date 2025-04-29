@@ -1,67 +1,80 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <!-- Required meta tags -->
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" />
-        <link href="style.css" rel="stylesheet" type="text/css" />
-        <style>
-            /* CSS */
-        h1 {
-          color: red;
-          font-size: 20px;
-          margin: 10px;
-          padding: 5px;
-        }
-
-        h2 {
-          color: blue;
-          font-size: 10px;
-          margin: 20px;
-          padding: 10px;
-        }
-
-        .box {
-           background-color: red;
-           height: 100px;
-           width: 300px;
-           margin-left: auto;
-           margin-right: auto;
-           --animate-duration: 1.95s;
-        }
-
-        </style>
-
-    <link rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
-
-    </head>
-    <body>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>animate.css demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7" crossorigin="anonymous">
+    <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+  </head>
+        <!-- CSS -->
+  <style>
+  p {
+   text-align: center;
+   line-height: 1.5;
+   background-color: skyblue;
+   animation-direction: alternate;
+  }
+  .spinner-border {
+    margin-left: 10px;
+  }
+   </style>
+  <body>
         <!-- HTML -->
-        <h1 class="animate__animated animate__swing animate__slow">Hello, this is a moving text </h1>
-        <h2 class="animate__animated animate__hinge animate__delay-2s"> Hello again, but this time its weird </h2>
-        <div class="box animate__animated animate__lightSpeedInRight">
-
-
-        <div class="card" style="width: 18rem;">
-          <div class="card-body">
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        <nav class="navbar fixed-top navbar-expand-lg bg-body-tertiary animate__animated animate__bounce animate__slow" data-bs-theme="dark">
+          <div class="container-fluid">
+            <a class="navbar-brand" href="#">Tinker Animation Website</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+              <div class="navbar-nav">
+                <a class="nav-link active" aria-current="page" href="#1st">1st Section</a>
+                <a class="nav-link" href="#2nd">2nd Section</a>
+                <a class="nav-link" href="#3rd">3rd Section</a>
+                <div class="spinner-border" role="status">
+                  <span class="visually-hidden">Loading...</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </nav>
+        <br>
+        <br>
+        <br>
+        <div class="container">
+         <div class="row">
+          <div class="col-12">
+        <p id="1st" class="animate__animated animate__pulse animate__slow animate__repeat-3"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Luctus ex aliquam feugiat faucibus suscipit posuere feugiat eleifend iaculis sapien dapibus fames ante. Tempor sapien curae etiam eu maximus nam hac dui sed ullamcorper porta metus. Nisl platea egestas vestibulum feugiat pharetra tortor. Tempus ornare pellentesque congue lorem iaculis suspendisse ex dolor rhoncus luctus vulputate tincidunt torquent. Nam molestie lacus pharetra curabitur suscipit libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Luctus ex aliquam feugiat faucibus suscipit posuere feugiat eleifend iaculis sapien dapibus fames ante. Tempor sapien curae etiam eu maximus nam hac dui sed ullamcorper porta metus. Nisl platea egestas vestibulum feugiat pharetra tortor. Tempus ornare pellentesque congue lorem iaculis suspendisse ex dolor rhoncus luctus vulputate tincidunt torquent. Nam molestie lacus pharetra curabitur suscipit libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Luctus ex aliquam feugiat faucibus suscipit posuere feugiat eleifend iaculis sapien dapibus fames ante. Tempor sapien curae etiam eu maximus nam hac dui sed ullamcorper porta metus. Nisl platea egestas vestibulum feugiat pharetra tortor. Tempus ornare pellentesque congue lorem iaculis suspendisse ex dolor rhoncus luctus vulputate tincidunt torquent. Nam molestie lacus pharetra curabitur suscipit libero.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Luctus ex aliquam feugiat faucibus suscipit posuere feugiat eleifend iaculis sapien dapibus fames ante. Tempor sapien curae etiam eu maximus nam hac dui sed ullamcorper porta metus. Nisl platea egestas vestibulum feugiat pharetra tortor. Tempus ornare pellentesque congue lorem iaculis suspendisse ex dolor rhoncus luctus vulputate tincidunt torquent. Nam molestie lacus pharetra curabitur suscipit libero.</p> <br>
+        <div class="container">
+          <div class="row">
+           <div class="col-12">
+        <p id="2nd" class="animate__animated animate__pulse animate__slow animate__repeat-3"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Luctus ex aliquam feugiat faucibus suscipit posuere feugiat eleifend iaculis sapien dapibus fames ante. Tempor sapien curae etiam eu maximus nam hac dui sed ullamcorper porta metus. Nisl platea egestas vestibulum feugiat pharetra tortor. Tempus ornare pellentesque congue lorem iaculis suspendisse ex dolor rhoncus luctus vulputate tincidunt torquent. Nam molestie lacus pharetra curabitur suscipit libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Luctus ex aliquam feugiat faucibus suscipit posuere feugiat eleifend iaculis sapien dapibus fames ante. Tempor sapien curae etiam eu maximus nam hac dui sed ullamcorper porta metus. Nisl platea egestas vestibulum feugiat pharetra tortor. Tempus ornare pellentesque congue lorem iaculis suspendisse ex dolor rhoncus luctus vulputate tincidunt torquent. Nam molestie lacus pharetra curabitur suscipit libero.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Luctus ex aliquam feugiat faucibus suscipit posuere feugiat eleifend iaculis sapien dapibus fames ante. Tempor sapien curae etiam eu maximus nam hac dui sed ullamcorper porta metus. Nisl platea egestas vestibulum feugiat pharetra tortor. Tempus ornare pellentesque congue lorem iaculis suspendisse ex dolor rhoncus luctus vulputate tincidunt torquent. Nam molestie lacus pharetra curabitur suscipit libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Luctus ex aliquam feugiat faucibus suscipit posuere feugiat eleifend iaculis sapien dapibus fames ante. Tempor sapien curae etiam eu maximus nam hac dui sed ullamcorper porta metus. Nisl platea egestas vestibulum feugiat pharetra tortor. Tempus ornare pellentesque congue lorem iaculis suspendisse ex dolor rhoncus luctus vulputate tincidunt torquent. Nam molestie lacus pharetra curabitur suscipit libero.</p> <br>
+        <div class="container">
+          <div class="row">
+           <div class="col-12">
+        <p id="3rd" class="animate__animated animate__pulse animate__fast"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Luctus ex aliquam feugiat faucibus suscipit posuere feugiat eleifend iaculis sapien dapibus fames ante. Tempor sapien curae etiam eu maximus nam hac dui sed ullamcorper porta metus. Nisl platea egestas vestibulum feugiat pharetra tortor. Tempus ornare pellentesque congue lorem iaculis suspendisse ex dolor rhoncus luctus vulputate tincidunt torquent. Nam molestie lacus pharetra curabitur suscipit libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Luctus ex aliquam feugiat faucibus suscipit posuere feugiat eleifend iaculis sapien dapibus fames ante. Tempor sapien curae etiam eu maximus nam hac dui sed ullamcorper porta metus. Nisl platea egestas vestibulum feugiat pharetra tortor. Tempus ornare pellentesque congue lorem iaculis suspendisse ex dolor rhoncus luctus vulputate tincidunt torquent. Nam molestie lacus pharetra curabitur suscipit libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Luctus ex aliquam feugiat faucibus suscipit posuere feugiat eleifend iaculis sapien dapibus fames ante. Tempor sapien curae etiam eu maximus nam hac dui sed ullamcorper porta metus. Nisl platea egestas vestibulum feugiat pharetra tortor. Tempus ornare pellentesque congue lorem iaculis suspendisse ex dolor rhoncus luctus vulputate tincidunt torquent. Nam molestie lacus pharetra curabitur suscipit libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Luctus ex aliquam feugiat faucibus suscipit posuere feugiat eleifend iaculis sapien dapibus fames ante. Tempor sapien curae etiam eu maximus nam hac dui sed ullamcorper porta metus. Nisl platea egestas vestibulum feugiat pharetra tortor. Tempus ornare pellentesque congue lorem iaculis suspendisse ex dolor rhoncus luctus vulputate tincidunt torquent. Nam molestie lacus pharetra curabitur suscipit libero.</p> <br>
+        </div>
+         </div>
           </div>
         </div>
-       </div>
+         </div>
+          </div>
+        </div>
+         </div>
+          </div>
 
 
 
 
 
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
         <!-- <script src="script.js"></script> -->
         <script>
             // JS
-
-
         </script>
     </body>
 </html>

@@ -12,11 +12,10 @@
 
 ## Timeline
 REMINDER: The MVP Due 5/5/25 & Plans for the Project
-* 4/24 --> Add Navbar & Little Context
-* 4/25 --> Add MORE content & images
-* 4/26 - 4/29 --> Add animations and fix any errors
-* 4/30 - 5/5 --> Go beyond MVP
-
+* 4/28 --> Add Navbar & Little Context
+* 4/29 --> Add MORE content & images
+* 5/3 & 5/4 --> Add animations and fix any errors
+* 5/5 --> Make website responsive & MVP
 
 #### Beyond MVP
 

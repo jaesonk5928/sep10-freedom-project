@@ -1,0 +1,18 @@
+/* Navbar section */
+.nav-link {
+    color: #ffff;
+    margin-left: 10px;
+}
+.navbar-brand {
+    color: #ffff;
+}
+/* End of Navbar Section */
+
+/* Info Section */
+.info, .business-info {
+    text-align: center;
+    margin-top: 10px;
+    font-family: Rubik;
+}
+
+
