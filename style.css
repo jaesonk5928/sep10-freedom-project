@@ -19,4 +19,41 @@ body {
     font-family: Rubik;
 }
 
+.modern, .modern1 {
+    text-align: center;
+    color: #000000;
+    margin-top: 30px;
+    padding-top: 20px;
+}
 
+.invent {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.card {
+    place-items: center;
+    height: 20vh;
+    width: 95%;
+    padding: 10px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.btn {
+    margin-top: 15px;
+    text-align: center;
+}
+
+.day {
+    text-align: center;
+    font-family: Rubik;
+    background-color: #1f2120;
+    color: white;
+    padding-bottom: 15px;
+    padding-top: 20px;
+    margin-top: 45px;
+}
+/* End of Info Section */
