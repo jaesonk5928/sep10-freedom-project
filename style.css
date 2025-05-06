@@ -17,6 +17,7 @@ body {
     text-align: center;
     margin-top: 10px;
     font-family: Rubik;
+    line-height: 2.2;
 }
 
 .modern, .modern1 {
@@ -28,23 +29,25 @@ body {
 
 .invent {
     text-align: center;
-    margin-top: 50px;
+    margin-top: 40px;
 }
 
 .card {
     place-items: center;
-    height: 20vh;
-    width: 95%;
-    padding: 10px;
+    height: 38vh;
+    width: 175%;
+    padding: 5px;
     margin-top: 20px;
-    display: flex;
-    flex-direction: row;
-
+    margin-right: 20px;
+    margin-left: 20px;
+    line-height: 1.8;
+    font-family: Rubik;
 }
 
 .btn {
-    margin-top: 15px;
+    margin-top: 25px;
     text-align: center;
+
 }
 
 .day {
@@ -52,8 +55,25 @@ body {
     font-family: Rubik;
     background-color: #1f2120;
     color: white;
-    padding-bottom: 15px;
+    padding-bottom: 25px;
     padding-top: 20px;
     margin-top: 45px;
 }
+
+.quote1 {
+    line-height: 1.8;
+    font-family: "Architects Daughter", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.quote {
+    line-height: 1.8;
+    font-family: "Architects Daughter", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 32px;
+}
+
 /* End of Info Section */

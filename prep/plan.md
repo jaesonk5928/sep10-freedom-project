@@ -31,8 +31,6 @@ REMINDER: The MVP Due 5/5/25 & Plans for the Project
 
 
 
-<!-- DO NOT USE THIS YET
-
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
 |   |   |
@@ -42,4 +40,3 @@ REMINDER: The MVP Due 5/5/25 & Plans for the Project
 |   |   |
 |   |   |
 
--->
