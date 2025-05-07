@@ -25,7 +25,12 @@ REMINDER: The MVP Due 5/5/25 & Plans for the Project
 * ETC
 
 
-
+Most important:
+- Add Part B (MVP)
+- Responsive Website
+Least important:
+- Add animations
+- add more components
 
 
 

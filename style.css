@@ -1,5 +1,6 @@
 body {
-    background-image: url(images/blue.jpg)
+    background-image: url(images/blue.jpg);
+    padding-bottom: 40px;
 }
 
 /* Navbar section */
@@ -35,17 +36,18 @@ body {
 .card {
     place-items: center;
     height: 38vh;
-    width: 175%;
-    padding: 5px;
-    margin-top: 20px;
-    margin-right: 20px;
-    margin-left: 20px;
+    width: 100%;
+    padding: 8px;
+    margin-top: 30px;
+    /* margin-right: 20px; */
+    /* margin-left: 20px; */
     line-height: 1.8;
     font-family: Rubik;
+    text-align: center;
 }
 
 .btn {
-    margin-top: 25px;
+    margin-top: 35px;
     text-align: center;
 
 }
@@ -65,7 +67,7 @@ body {
     font-family: "Architects Daughter", cursive;
     font-weight: 400;
     font-style: normal;
-    font-size: 20px;
+    font-size: 18px;
 }
 
 .quote {
@@ -73,7 +75,17 @@ body {
     font-family: "Architects Daughter", cursive;
     font-weight: 400;
     font-style: normal;
-    font-size: 32px;
+    font-size: 30px;
+}
+/* End of Info Section */
+
+/* Start of Part B */
+.future {
+    text-align: center;
+    padding-bottom: 20px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200px;
+    font-style: normal;
 }
 
-/* End of Info Section */
