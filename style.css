@@ -1,6 +1,6 @@
 body {
     background-image: url(images/blue.jpg);
-    padding-bottom: 40px;
+    /* padding-bottom: 10px; */
 }
 
 /* Navbar section */
@@ -88,4 +88,5 @@ body {
     font-weight: 200px;
     font-style: normal;
 }
+
 
