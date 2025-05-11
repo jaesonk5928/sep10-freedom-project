@@ -94,6 +94,7 @@ img {
     height: 170px;
 }
 
-.accordion-item, .accordion-body {
-    background: black !important;
+.accordion-item {
+    background: transparent !important;
 }
+
