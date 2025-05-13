@@ -1,16 +1,22 @@
 # Presentation Plan
 
 ## Hook
-* 
+Here's is the speech for my presentation:
+* Do you guys know Wreck It Ralph: Breaks the Internet? Well, I do, and the invention ideas that I came up with are possible in the near future. Businesses are all about communicating with others with work/projects. This is where the internet comes in to help businesses grow.
 
 ## Product
-* 
+* I will show my website, what inspired me to do my **topic, challenges, grows, glows, etc**. Maybe display my wireframes along with the process of making them. I will also show components from Bootstrap that I used in my website.
 
 ## Process
-* 
+* I will present my _timeline_ of the creation of my FP website. Day 1, Day 2, and so on and on. Also, explain what my website is about. (Introduction, Part A, Part B, misc..) I will also break down what my 2 future inventions will do during the future.
 
 ## Conclusion
-* 
+* [Url to Project]
+* Takeaways
+  * Copying components from Bootstrap is easy, but altering it is difficult to do in your own website. For example, making multiple `cards` is easy by copying/pasting, but adjusting to be in the right position is hard.
+  * Being behind is good, because it encourages you to rush, but for me, I went on my own pace for making my own project and it helped.
+
+* ANSWER ANY QUESTIONS AND END PRESENTATION. 
 
 <!-- EXAMPLE
 
