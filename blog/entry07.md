@@ -1,7 +1,7 @@
 # Entry 7
-##### X/X/XX
+##### 05/21/2025
 
-Text
+YAP, YAP, YAP
 
 [Previous](entry06.md) | [Next](entry08.md)
 
