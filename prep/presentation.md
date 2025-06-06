@@ -14,9 +14,9 @@ Here's is the speech for my presentation:
 * [Url to Project]
 * Takeaways
   * Copying components from Bootstrap is easy, but altering it is difficult to do in your own website. For example, making multiple `cards` is easy by copying/pasting, but adjusting to be in the right position is hard.
-  * Being behind is good, because it encourages you to rush, but for me, I went on my own pace for making my own project and it helped. For example, my friend was finshed with his MVP, but I was nowhere close to finishing it. So I worked over the weekend for MVP. 
+  * Being behind is good, because it encourages you to rush, but for me, I went on my own pace for making my own project and it helped. For example, my friend was finshed with his MVP, but I was nowhere close to finishing it. So I worked over the weekend for MVP.
 
-* ANSWER ANY QUESTIONS AND END PRESENTATION.
+<!-- * ANSWER ANY QUESTIONS AND END PRESENTATION. -->
 
 <!-- EXAMPLE
 
@@ -42,6 +42,23 @@ Here's is the speech for my presentation:
   * Expect the unexpected: it’s important to budget time for things you don’t account for; for example, I didn’t consider the fact that I would need another entire API to detect nouns
   * Determination is key: ironically enough, I had to make my API keys private. At first, it didn’t seem like it was possible, which meant I couldn’t publish my app. But after all of that hard work, I was determined to find a solution, and I found it in config variables.
 * "Presentation can’t, but a speech can"
-
-
 -->
+# Elevator Pitch Notes
+1. Introduce myself
+2. Explain what business/website is about **(It's responsivness and purpose of the project)**
+3. Briefly explain part A
+4. Talk about Part B more then A
+5. Answer questions and glows/grows
+
+* Intro (10 sec)
+  * Introduce myself (name, current status)
+  * Ask a question: You guys know Minecraft?
+    * Explain my topic (business)
+* Center Part (35 sec)
+  * Show my website and it's responsiveness
+  * Showcase my Part B ideas/Skim Part A
+* Conclusion (15 sec)
+  * Challenges (tools not in use) and Takeaways
+ * Questions (30 sec)
+
+Hi, my name is Jaeson Kwan, and did you know that Minecraft during it's **BETA** is only made by one person, Notch? Well, now there are a team of workers who work on it, similar to business. Well, minecraft got sold to microsoft. My website talks about what soft/hardware that people use to make thier businesses successful. The website is only currently responsive to mobile and computers. My ideas for example, the **VRPM** (The Virtual Reality Portal Machine), a machine where a person goes inside a portal (similar to Minecraft) and can do, imagine whatever they want.
